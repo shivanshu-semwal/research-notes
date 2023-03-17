@@ -4,7 +4,7 @@ Research is "creative and systematic work undertaken to increase the stock of kn
 
 ## Etymology
 
-The word research is derived from the Middle French "recherche", which means "to go about seeking", the term itself being derived from the Old French term "recerchier" a compound word from "re-" + "cerchier", or "sercher", meaning 'search'.[^research-word-origin]
+The word research is derived from the Middle French "recherche", which means "to go about seeking", the term itself being derived from the Old French term "recerchier" a compound word from "re-" + "cerchier", or "sercher", meaning 'search'.[^researchWordOrigin]
 
 ## Forms of Research
 
@@ -66,4 +66,5 @@ When you submit your research paper for peer review, several possible outcomes m
 - <https://www.youtube.com/watch?v=w8CFQC4ZhnQ&list=PLMAnh70NGHvVl9dgH9bzvPyHubgjjEqLt&index=1>
 
 [^definition]: OECD (2015). Frascati Manual. The Measurement of Scientific, Technological and Innovation Activities. doi:10.1787/9789264239012-en. hdl:20.500.12749/13290. ISBN 978-9264238800.
-[^research-word-origin]: Research". Merriam-Webster.com. Merriam-Webster, Inc. Retrieved 20 May 2018.
+
+[^researchWordOrigin]: Research". Merriam-Webster.com. Merriam-Webster, Inc. Retrieved 20 May 2018.
