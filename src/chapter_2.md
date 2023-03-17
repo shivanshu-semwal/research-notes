@@ -1,2 +1,0 @@
-# Parts of Research Paper
-
