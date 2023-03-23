@@ -67,4 +67,4 @@ When you submit your research paper for peer review, several possible outcomes m
 
 [^definition]: OECD (2015). Frascati Manual. The Measurement of Scientific, Technological and Innovation Activities. doi:10.1787/9789264239012-en. hdl:20.500.12749/13290. ISBN 978-9264238800.
 
-[^researchWordOrigin]: Research". Merriam-Webster.com. Merriam-Webster, Inc. Retrieved 20 May 2018.
+[^researchWordOrigin]: "Research". Merriam-Webster.com. Merriam-Webster, Inc. Retrieved 20 May 2018.
